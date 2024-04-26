@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "TitlingGothicFB";
+  font-weight: 100; /* Thin */
+  src: url("TitlingGothicFBNor-Thin-AF65ddb1367b176.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TitlingGothicFB";
+  font-weight: 300; /* Light */
+  src: url("TitlingGothicFBNor-Light-AF65ddb1369439f.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TitlingGothicFB";
+  font-weight: 400; /* Regular */
+  src: url("TitlingGothicFBNor-Reg-AF65ddb13687017.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TitlingGothicFB";
+  font-weight: 500; /* Medium */
+  src: url("TitlingGothicFBNor-Med-AF65ddb1368da86.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TitlingGothicFB";
+  font-weight: 900; /* Standard */
+  src: url("TitlingGothicFBNor-Stand-AF65ddb1368137c.otf") format("opentype");
+}
