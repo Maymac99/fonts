@@ -1,0 +1,239 @@
+@font-face {
+    font-family: "icomoon";
+    src: url("https://cdn.icomoon.io/101518/website/icomoon.eot?470e40");
+    src: url('https://cdn.icomoon.io/101518/website/icomoon.eot?470e40#iefix') format('embedded-opentype'), url('https://cdn.icomoon.io/101518/website/icomoon.woff2?470e40') format('woff2'), url('https://cdn.icomoon.io/101518/website/icomoon.ttf?470e40') format('truetype'), url('https://cdn.icomoon.io/101518/website/icomoon.woff?470e40') format('woff'), url('https://cdn.icomoon.io/101518/website/icomoon.svg?470e40#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-"] p:before, [class*=" icon-"] p:before {
+    font-family: 'icomoon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-power-dumbbell p:before {
+    content: "\eac5"
+}
+
+.icon-round-clock p:before {
+    content: "\eac6"
+}
+
+.icon-comprehensive p:before {
+    content: "\eac3"
+}
+
+.icon-intuitive p:before {
+    content: "\eac4"
+}
+
+.icon-numeric-3 p:before {
+    content: "\eac0"
+}
+
+.icon-numeric-2 p:before {
+    content: "\eac1"
+}
+
+.icon-numeric-1 p:before {
+    content: "\eac2"
+}
+
+.icon-magnifying-glass p:before {
+    content: "\eabe"
+}
+
+.icon-xmark-circle-fill p:before {
+    content: "\eabf"
+}
+
+.icon-star-multiple-files p:before {
+    content: "\eabc";
+}
+
+.icon-browser-play p:before {
+    content: "\eabd";
+}
+
+.icon-gears p:before {
+    content: "\eabb";
+}
+
+.icon-grip-dots-vertical p:before {
+    content: "\eaba";
+}
+
+.icon-desktop p:before {
+    content: "\eab7";
+}
+
+.icon-mobile p:before {
+    content: "\eab8";
+}
+
+.icon-edit-outline p:before {
+    content: "\eab9";
+    color: #555;
+}
+
+.icon-bars-three p:before {
+    content: "\eab5";
+}
+
+.icon-bulletted-star-list p:before {
+    content: "\eab6";
+}
+
+.icon-moon-star p:before {
+    content: "\eaa9";
+}
+
+.icon-pin p:before {
+    content: "\eaaa";
+}
+
+.icon-letter p:before {
+    content: "\eaab";
+}
+
+.icon-globe-arrow p:before {
+    content: "\eaac";
+}
+
+.icon-list-notebook p:before {
+    content: "\eaad";
+}
+
+.icon-webchat-a p:before {
+    content: "\eaae";
+}
+
+.icon-flagged p:before {
+    content: "\eaaf";
+}
+
+.icon-info-circle p:before {
+    content: "\eab0";
+}
+
+.icon-letter-pad p:before {
+    content: "\eab1";
+}
+
+.icon-selected-list p:before {
+    content: "\eab2";
+}
+
+.icon-arrow-right-circle p:before {
+    content: "\eab3";
+}
+
+.icon-settings-panel p:before {
+    content: "\eab4";
+}
+
+.icon-dotted-clock p:before {
+    content: "\ea9b";
+}
+
+.icon-browser p:before {
+    content: "\ea9c";
+}
+
+.icon-clock p:before {
+    content: "\ea9d";
+}
+
+.icon-door-open p:before {
+    content: "\ea9e";
+}
+
+.icon-scan p:before {
+    content: "\ea9f";
+}
+
+.icon-photo-album p:before {
+    content: "\eaa0";
+}
+
+.icon-camera p:before {
+    content: "\eaa1";
+}
+
+.icon-media-gallery p:before {
+    content: "\eaa2";
+}
+
+.icon-blasting-stars p:before {
+    content: "\eaa3";
+}
+
+.icon-multiple-window p:before {
+    content: "\eaa4";
+}
+
+.icon-search-bar p:before {
+    content: "\eaa5";
+}
+
+.icon-gear-thin p:before {
+    content: "\eaa6";
+}
+
+.icon-boxed-home p:before {
+    content: "\eaa7";
+}
+
+.icon-c-arrow p:before {
+    content: "\eaa8";
+}
+
+.icon-apple-partner p:before {
+    content: "\ea99";
+}
+
+.icon-notes-plus p:before {
+    content: "\ea9a";
+}
+
+.icon-fluent p:before {
+    content: "\ea89";
+}
+
+.icon-arrow-link p:before {
+    content: "\ea8a";
+}
+
+.icon-fb-chat p:before {
+    content: "\ea8b";
+}
+
+.icon-fb-color p:before {
+    content: "\ea8c";
+}
+
+.icon-fb-like p:before {
+    content: "\ea8d";
+}
+
+.icon-fb-share p:before {
+    content: "\ea8e";
+}
+
+.icon-ig-color p:before {
+    content: "\ea8f";
+}
+
+.icon-ig-comments p:before {
+    content: "\ea90";
+}
+
+.icon
