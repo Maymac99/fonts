@@ -1,0 +1,1993 @@
+@font-face {
+    font-family: "icomoon" !important;
+    src: url("https://cdn.icomoon.io/101518/website/icomoon.eot?470e40");
+    src: url('https://cdn.icomoon.io/101518/website/icomoon.eot?470e40#iefix') format('embedded-opentype'), url('https://cdn.icomoon.io/101518/website/icomoon.woff2?470e40') format('woff2'), url('https://cdn.icomoon.io/101518/website/icomoon.ttf?470e40') format('truetype'), url('https://cdn.icomoon.io/101518/website/icomoon.woff?470e40') format('woff'), url('https://cdn.icomoon.io/101518/website/icomoon.svg?470e40#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-"] p:before, [class*=" icon-"] p:before {
+    font-family: 'icomoon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-power-dumbbell p:before {
+    content: "\eac5" !Important }
+
+.icon-round-clock p:before {
+    content: "\eac6" !Important }
+
+.icon-comprehensive p:before {
+    content: "\eac3" !Important }
+
+.icon-intuitive p:before {
+    content: "\eac4" !Important }
+
+.icon-numeric-3 p:before {
+    content: "\eac0" !Important }
+
+.icon-numeric-2 p:before {
+    content: "\eac1" !Important }
+
+.icon-numeric-1 p:before {
+    content: "\eac2" !Important }
+
+.icon-magnifying-glass p:before {
+    content: "\eabe" !Important }
+
+.icon-xmark-circle-fill p:before {
+    content: "\eabf" !Important }
+
+.icon-star-multiple-files p:before {
+    content: "\eabc" !important;
+}
+
+.icon-browser-play p:before {
+    content: "\eabd" !important;
+}
+
+.icon-gears p:before {
+    content: "\eabb" !important;
+}
+
+.icon-grip-dots-vertical p:before {
+    content: "\eaba" !important;
+}
+
+.icon-desktop p:before {
+    content: "\eab7" !important;
+}
+
+.icon-mobile p:before {
+    content: "\eab8" !important;
+}
+
+.icon-edit-outline p:before {
+    content: "\eab9" !important;
+    color: #555;
+}
+
+.icon-bars-three p:before {
+    content: "\eab5" !important;
+}
+
+.icon-bulletted-star-list p:before {
+    content: "\eab6" !important;
+}
+
+.icon-moon-star p:before {
+    content: "\eaa9" !important;
+}
+
+.icon-pin p:before {
+    content: "\eaaa" !important;
+}
+
+.icon-letter p:before {
+    content: "\eaab" !important;
+}
+
+.icon-globe-arrow p:before {
+    content: "\eaac" !important;
+}
+
+.icon-list-notebook p:before {
+    content: "\eaad" !important;
+}
+
+.icon-webchat-a p:before {
+    content: "\eaae" !important;
+}
+
+.icon-flagged p:before {
+    content: "\eaaf" !important;
+}
+
+.icon-info-circle p:before {
+    content: "\eab0" !important;
+}
+
+.icon-letter-pad p:before {
+    content: "\eab1" !important;
+}
+
+.icon-selected-list p:before {
+    content: "\eab2" !important;
+}
+
+.icon-arrow-right-circle p:before {
+    content: "\eab3" !important;
+}
+
+.icon-settings-panel p:before {
+    content: "\eab4" !important;
+}
+
+.icon-dotted-clock p:before {
+    content: "\ea9b" !important;
+}
+
+.icon-browser p:before {
+    content: "\ea9c" !important;
+}
+
+.icon-clock p:before {
+    content: "\ea9d" !important;
+}
+
+.icon-door-open p:before {
+    content: "\ea9e" !important;
+}
+
+.icon-scan p:before {
+    content: "\ea9f" !important;
+}
+
+.icon-photo-album p:before {
+    content: "\eaa0" !important;
+}
+
+.icon-camera p:before {
+    content: "\eaa1" !important;
+}
+
+.icon-media-gallery p:before {
+    content: "\eaa2" !important;
+}
+
+.icon-blasting-stars p:before {
+    content: "\eaa3" !important;
+}
+
+.icon-multiple-window p:before {
+    content: "\eaa4" !important;
+}
+
+.icon-search-bar p:before {
+    content: "\eaa5" !important;
+}
+
+.icon-gear-thin p:before {
+    content: "\eaa6" !important;
+}
+
+.icon-boxed-home p:before {
+    content: "\eaa7" !important;
+}
+
+.icon-c-arrow p:before {
+    content: "\eaa8" !important;
+}
+
+.icon-apple-partner p:before {
+    content: "\ea99" !important;
+}
+
+.icon-notes-plus p:before {
+    content: "\ea9a" !important;
+}
+
+.icon-fluent p:before {
+    content: "\ea89" !important;
+}
+
+.icon-arrow-link p:before {
+    content: "\ea8a" !important;
+}
+
+.icon-fb-chat p:before {
+    content: "\ea8b" !important;
+}
+
+.icon-fb-color p:before {
+    content: "\ea8c" !important;
+}
+
+.icon-fb-like p:before {
+    content: "\ea8d" !important;
+}
+
+.icon-fb-share p:before {
+    content: "\ea8e" !important;
+}
+
+.icon-ig-color p:before {
+    content: "\ea8f" !important;
+}
+
+.icon-ig-comments p:before {
+    content: "\ea90" !important;
+}
+
+.icon-ig-like p:before {
+    content: "\ea91" !important;
+}
+
+.icon-ig-save p:before {
+    content: "\ea92" !important;
+}
+
+.icon-ig-share p:before {
+    content: "\ea93" !important;
+}
+
+.icon-mike p:before {
+    content: "\ea94" !important;
+}
+
+.icon-regenerate p:before {
+    content: "\ea95" !important;
+}
+
+.icon-shorten p:before {
+    content: "\ea96" !important;
+}
+
+.icon-upload-cloud p:before {
+    content: "\ea97" !important;
+}
+
+.icon-lengthen p:before {
+    content: "\ea98" !important;
+}
+
+.icon-qr p:before {
+    content: "\ea88" !important;
+}
+
+.icon-arrow-down-to-line p:before {
+    content: "\ea87" !important;
+}
+
+.icon-people p:before {
+    content: "\ea86" !important;
+}
+
+.icon-ai p:before {
+    content: "\ea85" !important;
+}
+
+.icon-router-edit p:before {
+    content: "\ea84" !important;
+}
+
+.icon-service-bell-1 p:before {
+    content: "\ea76" !important;
+    color: #555;
+}
+
+.icon-resturant p:before {
+    content: "\ea77" !important;
+    color: #555;
+}
+
+.icon-medical-suitcase p:before {
+    content: "\ea78" !important;
+    color: #555;
+}
+
+.icon-building p:before {
+    content: "\ea79" !important;
+}
+
+.icon-currency p:before {
+    content: "\ea7a" !important;
+    color: #555;
+}
+
+.icon-briefcase p:before {
+    content: "\ea7b" !important;
+    color: #555;
+}
+
+.icon-tooth p:before {
+    content: "\ea7c" !important;
+    color: #555;
+}
+
+.icon-leaf p:before {
+    content: "\ea7d" !important;
+    color: #555;
+}
+
+.icon-icon-cart p:before {
+    content: "\ea7e" !important;
+    color: #555;
+}
+
+.icon-heart-letter p:before {
+    content: "\ea7f" !important;
+    color: #555;
+}
+
+.icon-home-service p:before {
+    content: "\ea80" !important;
+    color: #555;
+}
+
+.icon-hammer p:before {
+    content: "\ea81" !important;
+    color: #555;
+}
+
+.icon-package p:before {
+    content: "\ea82" !important;
+    color: #555;
+}
+
+.icon-automotive p:before {
+    content: "\ea83" !important;
+    color: #555;
+}
+
+.icon-thumb-print p:before {
+    content: "\ea6a" !important;
+    color: #555;
+}
+
+.icon-construction p:before {
+    content: "\ea6b" !important;
+    color: #555;
+}
+
+.icon-education p:before {
+    content: "\ea6c" !important;
+    color: #555;
+}
+
+.icon-advertising p:before {
+    content: "\ea6d" !important;
+    color: #555;
+}
+
+.icon-transportation-services p:before {
+    content: "\ea6e" !important;
+    color: #555;
+}
+
+.icon-technology p:before {
+    content: "\ea6f" !important;
+    color: #555;
+}
+
+.icon-recreation p:before {
+    content: "\ea70" !important;
+    color: #555;
+}
+
+.icon-other p:before {
+    content: "\ea71" !important;
+    color: #555;
+}
+
+.icon-consumer-goods p:before {
+    content: "\ea72" !important;
+    color: #555;
+}
+
+.icon-beauty p:before {
+    content: "\ea73" !important;
+    color: #555;
+}
+
+.icon-arts p:before {
+    content: "\ea74" !important;
+    color: #555;
+}
+
+.icon-agriculture p:before {
+    content: "\ea75" !important;
+    color: #555;
+}
+
+.icon-twitter-black p:before {
+    content: "\ea69" !important;
+}
+
+.icon-lock-secure p:before {
+    content: "\ea66" !important;
+}
+
+.icon-three-arrows p:before {
+    content: "\ea67" !important;
+}
+
+.icon-run p:before {
+    content: "\ea68" !important;
+}
+
+.icon-social-media p:before {
+    content: "\ea65" !important;
+}
+
+.icon-caution-filled p:before {
+    content: "\ea64" !important;
+}
+
+.icon-review-report p:before {
+    content: "\ea60" !important;
+}
+
+.icon-powerful-pointer p:before {
+    content: "\ea61" !important;
+}
+
+.icon-listings-report p:before {
+    content: "\ea62" !important;
+}
+
+.icon-binoculars p:before {
+    content: "\ea63" !important;
+}
+
+.icon-info-badge p:before {
+    content: "\ea5f" !important;
+}
+
+.icon-customer-info p:before {
+    content: "\ea5e" !important;
+}
+
+.icon-brain-head p:before {
+    content: "\ea5c" !important;
+}
+
+.icon-text-search p:before {
+    content: "\ea5d" !important;
+}
+
+.icon-heart-arrow-up p:before {
+    content: "\ea5a" !important;
+}
+
+.icon-hex-dots p:before {
+    content: "\ea5b" !important;
+}
+
+.icon-person-frame-fill p:before {
+    content: "\ea59" !important;
+}
+
+.icon-building-outline p:before {
+    content: "\ea58" !important;
+}
+
+.icon-globe-pin p:before {
+    content: "\ea51" !important;
+}
+
+.icon-envelope-pin p:before {
+    content: "\ea4f" !important;
+}
+
+.icon-navigation-pin p:before {
+    content: "\ea50" !important;
+}
+
+.icon-phone p:before {
+    content: "\ea52" !important;
+}
+
+.icon-person p:before {
+    content: "\ea53" !important;
+}
+
+.icon-envelope p:before {
+    content: "\ea54" !important;
+}
+
+.icon-locations-pin p:before {
+    content: "\ea55" !important;
+}
+
+.icon-industry-shapes p:before {
+    content: "\ea56" !important;
+}
+
+.icon-additional-emails p:before {
+    content: "\ea57" !important;
+}
+
+.icon-gear p:before {
+    content: "\ea4e" !important;
+}
+
+.icon-tabs p:before {
+    content: "\ea4b" !important;
+}
+
+.icon-google-partner p:before {
+    content: "\ea4c" !important;
+}
+
+.icon-link-thick p:before {
+    content: "\ea4d" !important;
+}
+
+.icon-question-mark-solid p:before {
+    content: "\ea4a" !important;
+}
+
+.icon-lock-filled p:before {
+    content: "\ea49" !important;
+}
+
+.icon-google-outline p:before {
+    content: "\ea47" !important;
+}
+
+.icon-cursor-pointer-dots p:before {
+    content: "\ea48" !important;
+}
+
+.icon-mass-listening p:before {
+    content: "\ea44" !important;
+}
+
+.icon-notebook p:before {
+    content: "\ea45" !important;
+}
+
+.icon-bird-ai p:before {
+    content: "\ea46" !important;
+}
+
+.icon-message-check p:before {
+    content: "\ea43" !important;
+}
+
+.icon-redirect p:before {
+    content: "\ea42" !important;
+}
+
+.icon-ticket-tag p:before {
+    content: "\ea40" !important;
+}
+
+.icon-messaging-lined p:before {
+    content: "\ea41" !important;
+}
+
+.icon-people-connect-1 p:before {
+    content: "\ea3f" !important;
+}
+
+.icon-webchat-incircle p:before {
+    content: "\ea3e" !important;
+}
+
+.icon-interaction-thin p:before {
+    content: "\ea31" !important;
+}
+
+.icon-ai-text p:before {
+    content: "\ea32" !important;
+}
+
+.icon-timer p:before {
+    content: "\ea33" !important;
+}
+
+.icon-bars p:before {
+    content: "\ea34" !important;
+}
+
+.icon-referrals-thin p:before {
+    content: "\ea35" !important;
+}
+
+.icon-insights-thin p:before {
+    content: "\ea36" !important;
+}
+
+.icon-surveys-thin p:before {
+    content: "\ea37" !important;
+}
+
+.icon-payments-thin p:before {
+    content: "\ea38" !important;
+}
+
+.icon-appointments-thin p:before {
+    content: "\ea39" !important;
+}
+
+.icon-social-thin p:before {
+    content: "\ea3a" !important;
+}
+
+.icon-webchat-thin p:before {
+    content: "\ea3b" !important;
+}
+
+.icon-listings-thin p:before {
+    content: "\ea3c" !important;
+}
+
+.icon-reviews-thin p:before {
+    content: "\ea3d" !important;
+}
+
+.icon-scalable p:before {
+    content: "\ea30" !important;
+}
+
+.icon-happy-face p:before {
+    content: "\ea2f" !important;
+}
+
+.icon-survey-campaigns-1 p:before {
+    content: "\ea2e" !important;
+}
+
+.icon-survey-builder p:before {
+    content: "\ea2c" !important;
+}
+
+.icon-pie-chart-outline p:before {
+    content: "\ea2d" !important;
+}
+
+.icon-circle-nodes p:before {
+    content: "\ea2b" !important;
+}
+
+.icon-party-popper p:before {
+    content: "\ea2a" !important;
+}
+
+.icon-circle-check p:before {
+    content: "\ea29" !important;
+}
+
+.icon-inbox-notify p:before {
+    content: "\ea27" !important;
+}
+
+.icon-contact-management p:before {
+    content: "\ea28" !important;
+}
+
+.icon-chat-2 p:before {
+    content: "\ea25" !important;
+}
+
+.icon-group p:before {
+    content: "\ea26" !important;
+}
+
+.icon-arrow-right p:before {
+    content: "\ea24" !important;
+}
+
+.icon-mes-box p:before {
+    content: "\ea23" !important;
+}
+
+.icon-headphones-mic p:before {
+    content: "\ea22" !important;
+}
+
+.icon-headphone-v2 p:before {
+    content: "\ea20" !important;
+}
+
+.icon-square-play p:before {
+    content: "\ea21" !important;
+}
+
+.icon-multiple-files p:before {
+    content: "\ea1b" !important;
+}
+
+.icon-secure p:before {
+    content: "\ea1c" !important;
+}
+
+.icon-thumbs-up-outline p:before {
+    content: "\ea1d" !important;
+}
+
+.icon-dollar-payment p:before {
+    content: "\ea1e" !important;
+}
+
+.icon-payment-processing p:before {
+    content: "\ea1f" !important;
+}
+
+.icon-bell-dot p:before {
+    content: "\ea18" !important;
+}
+
+.icon-info-msg p:before {
+    content: "\ea19" !important;
+}
+
+.icon-cal-add p:before {
+    content: "\ea1a" !important;
+}
+
+.icon-recycle p:before {
+    content: "\ea16" !important;
+}
+
+.icon-arrow-thin p:before {
+    content: "\ea17" !important;
+}
+
+.icon-hex-circles p:before {
+    content: "\ea13" !important;
+}
+
+.icon-map-pin p:before {
+    content: "\ea14" !important;
+}
+
+.icon-message-star p:before {
+    content: "\ea15" !important;
+}
+
+.icon-be-logo p:before {
+    content: "\ea12" !important;
+}
+
+.icon-people-connect p:before {
+    content: "\ea11" !important;
+}
+
+.icon-plus-bold p:before {
+    content: "\ea0d" !important;
+}
+
+.icon-ear p:before {
+    content: "\ea0e" !important;
+}
+
+.icon-hand-clap-magic p:before {
+    content: "\ea0f" !important;
+}
+
+.icon-star-square p:before {
+    content: "\ea10" !important;
+}
+
+.icon-triangle-filled p:before {
+    content: "\ea0c" !important;
+}
+
+.icon-chart-pie p:before {
+    content: "\ea08" !important;
+}
+
+.icon-person-2 p:before {
+    content: "\ea09" !important;
+}
+
+.icon-gearshape p:before {
+    content: "\ea0a" !important;
+}
+
+.icon-hand-wave p:before {
+    content: "\ea0b" !important;
+}
+
+.icon-form-doc p:before {
+    content: "\e9ff" !important;
+}
+
+.icon-users-cirlcle-plus p:before {
+    content: "\ea00" !important;
+}
+
+.icon-team-chat p:before {
+    content: "\ea01" !important;
+}
+
+.icon-support-call p:before {
+    content: "\ea02" !important;
+}
+
+.icon-paper-plane p:before {
+    content: "\ea03" !important;
+}
+
+.icon-mobile-app p:before {
+    content: "\ea04" !important;
+}
+
+.icon-integration p:before {
+    content: "\ea05" !important;
+}
+
+.icon-dollar-circle p:before {
+    content: "\ea06" !important;
+}
+
+.icon-contact-card p:before {
+    content: "\ea07" !important;
+}
+
+.icon-open-quote p:before {
+    content: "\e9fd" !important;
+}
+
+.icon-close-quote p:before {
+    content: "\e9fe" !important;
+}
+
+.icon-search-plus p:before {
+    content: "\e9fc" !important;
+}
+
+.icon-google p:before {
+    content: "\e9fb" !important;
+}
+
+.icon-hand-shake p:before {
+    content: "\e9fa" !important;
+}
+
+.icon-email-outline p:before {
+    content: "\e9ef" !important;
+}
+
+.icon-employee-count p:before {
+    content: "\e9f6" !important;
+}
+
+.icon-locations-management p:before {
+    content: "\e9f7" !important;
+}
+
+.icon-cart p:before {
+    content: "\e9f8" !important;
+}
+
+.icon-monthly-spend p:before {
+    content: "\e9f9" !important;
+}
+
+.icon-phone-outline p:before {
+    content: "\e9f0" !important;
+}
+
+.icon-user-outline p:before {
+    content: "\e9f1" !important;
+}
+
+.icon-company p:before {
+    content: "\e9f2" !important;
+}
+
+.icon-location-outline p:before {
+    content: "\e9f3" !important;
+}
+
+.icon-industry-field p:before {
+    content: "\e9f4" !important;
+}
+
+.icon-zipcode p:before {
+    content: "\e9f5" !important;
+}
+
+.icon-social-report p:before {
+    content: "\e9e9" !important;
+}
+
+.icon-listening p:before {
+    content: "\e9ea" !important;
+}
+
+.icon-search-text p:before {
+    content: "\e9eb" !important;
+}
+
+.icon-reputation-star p:before {
+    content: "\e9ec" !important;
+}
+
+.icon-social-publish p:before {
+    content: "\e9ed" !important;
+}
+
+.icon-multi-location p:before {
+    content: "\e9ee" !important;
+}
+
+.icon-show p:before {
+    content: "\e9e7" !important;
+}
+
+.icon-hide p:before {
+    content: "\e9e8" !important;
+}
+
+.icon-phone-waveform p:before {
+    content: "\e9d7" !important;
+}
+
+.icon-video-waveform p:before {
+    content: "\e9da" !important;
+}
+
+.icon-network-globe p:before {
+    content: "\e9db" !important;
+}
+
+.icon-message-waveform p:before {
+    content: "\e9dc" !important;
+}
+
+.icon-tv p:before {
+    content: "\e9dd" !important;
+}
+
+.icon-waveform-mic p:before {
+    content: "\e9de" !important;
+}
+
+.icon-list-bullet p:before {
+    content: "\e9df" !important;
+}
+
+.icon-user-rectangle p:before {
+    content: "\e9e0" !important;
+}
+
+.icon-perks p:before {
+    content: "\e9e1" !important;
+}
+
+.icon-feedback p:before {
+    content: "\e9e2" !important;
+}
+
+.icon-recognition p:before {
+    content: "\e9e3" !important;
+}
+
+.icon-success p:before {
+    content: "\e9e4" !important;
+}
+
+.icon-phone-circle p:before {
+    content: "\e9e5" !important;
+}
+
+.icon-click p:before {
+    content: "\e9e6" !important;
+}
+
+.icon-star-cluster p:before {
+    content: "\e9d4" !important;
+}
+
+.icon-play-circle p:before {
+    content: "\e9d5" !important;
+}
+
+.icon-polar-star p:before {
+    content: "\e9d6" !important;
+}
+
+.icon-amplify p:before {
+    content: "\e9d2" !important;
+}
+
+.icon-repeat p:before {
+    content: "\e9bc" !important;
+}
+
+.icon-user-check p:before {
+    content: "\e9bd" !important;
+}
+
+.icon-text-notification p:before {
+    content: "\e9bb" !important;
+}
+
+.icon-social p:before {
+    content: "\e9b4" !important;
+}
+
+.icon-google-seller p:before {
+    content: "\e9b6" !important;
+}
+
+.icon-quick-and-easy p:before {
+    content: "\e9b7" !important;
+}
+
+.icon-trophy p:before {
+    content: "\e9b8" !important;
+}
+
+.icon-appointments p:before {
+    content: "\e9b9" !important;
+}
+
+.icon-texting p:before {
+    content: "\e9ba" !important;
+}
+
+.icon-streamline-communication p:before {
+    content: "\e9d3" !important;
+}
+
+.icon-down-arrow-circle p:before {
+    content: "\e9b1" !important;
+}
+
+.icon-circle-plus p:before {
+    content: "\e9b2" !important;
+}
+
+.icon-circle-minus p:before {
+    content: "\e9b3" !important;
+}
+
+.icon-google-logo p:before {
+    content: "\e9b5" !important;
+}
+
+.icon-all-in-one-link p:before {
+    content: "\e9ae" !important;
+}
+
+.icon-bold-star-circle p:before {
+    content: "\e9af" !important;
+}
+
+.icon-effortless-connection p:before {
+    content: "\e9b0" !important;
+}
+
+.icon-graph p:before {
+    content: "\e96a" !important;
+}
+
+.icon-arrow p:before {
+    content: "\e96b" !important;
+}
+
+.icon-calendar p:before {
+    content: "\e96c" !important;
+}
+
+.icon-edit p:before {
+    content: "\e96d" !important;
+}
+
+.icon-globe p:before {
+    content: "\e96e" !important;
+}
+
+.icon-user p:before {
+    content: "\e970" !important;
+}
+
+.icon-bulletted-list p:before {
+    content: "\e971" !important;
+}
+
+.icon-chat p:before {
+    content: "\e95a" !important;
+}
+
+.icon-credit-card p:before {
+    content: "\e95b" !important;
+}
+
+.icon-double-chevron p:before {
+    content: "\e95d" !important;
+}
+
+.icon-lightning p:before {
+    content: "\e95f" !important;
+    color: #616161;
+}
+
+.icon-lock p:before {
+    content: "\e972" !important;
+}
+
+.icon-multi-frames p:before {
+    content: "\e973" !important;
+}
+
+.icon-reader p:before {
+    content: "\e974" !important;
+    color: #616161;
+}
+
+.icon-pages p:before {
+    content: "\e94b" !important;
+}
+
+.icon-thumbs-up p:before {
+    content: "\e94c" !important;
+}
+
+.icon-payments-light p:before {
+    content: "\e94e" !important;
+}
+
+.icon-message p:before {
+    content: "\e975" !important;
+}
+
+.icon-link p:before {
+    content: "\e976" !important;
+}
+
+.icon-caution p:before {
+    content: "\e977" !important;
+}
+
+.icon-accounts p:before {
+    content: "\e978" !important;
+}
+
+.icon-circle-star p:before {
+    content: "\e979" !important;
+}
+
+.icon-podcast p:before {
+    content: "\e97a" !important;
+    color: #555;
+}
+
+.icon-video p:before {
+    content: "\e93a" !important;
+}
+
+.icon-webinar p:before {
+    content: "\e93b" !important;
+}
+
+.icon-guide p:before {
+    content: "\e93c" !important;
+}
+
+.icon-headphone p:before {
+    content: "\e93d" !important;
+}
+
+.icon-share p:before {
+    content: "\e93e" !important;
+}
+
+.icon-paint-brush p:before {
+    content: "\e93f" !important;
+}
+
+.icon-iphone p:before {
+    content: "\e97b" !important;
+}
+
+.icon-drag p:before {
+    content: "\e97c" !important;
+}
+
+.icon-case-study p:before {
+    content: "\e97e" !important;
+}
+
+.icon-campaigns p:before {
+    content: "\e92a" !important;
+}
+
+.icon-payments p:before {
+    content: "\e92b" !important;
+}
+
+.icon-call-outline p:before {
+    content: "\e91c" !important;
+    color: #555;
+}
+
+.icon-email-cross p:before {
+    content: "\e92c" !important;
+    color: #555;
+}
+
+.icon-enterprise-v2 p:before {
+    content: "\e92e" !important;
+}
+
+.icon-smb p:before {
+    content: "\e92f" !important;
+}
+
+.icon-small-business .path1 p:before {
+    content: "\e97f" !important;
+    color: rgb(244, 240, 235);
+}
+
+.icon-small-business .path2 p:before {
+    content: "\e980" !important;
+    margin-left: -1.0458984375em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-small-business .path3 p:before {
+    content: "\e981" !important;
+    margin-left: -1.0458984375em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-insights-light p:before {
+    content: "\e982" !important;
+    color: #555;
+}
+
+.icon-solutions-smb p:before {
+    content: "\e91d" !important;
+    color: #555;
+}
+
+.icon-solutions-ent p:before {
+    content: "\e91e" !important;
+    color: #555;
+}
+
+.icon-products-webchat p:before {
+    content: "\e91f" !important;
+    color: #555;
+}
+
+.icon-products-video-chat p:before {
+    content: "\e920" !important;
+    color: #555;
+}
+
+.icon-products-receptionist p:before {
+    content: "\e983" !important;
+    color: #555;
+}
+
+.icon-products-pages p:before {
+    content: "\e984" !important;
+    color: #555;
+}
+
+.icon-products-mass-texting p:before {
+    content: "\e985" !important;
+    color: #555;
+}
+
+.icon-competitors p:before {
+    content: "\e986" !important;
+    color: #555;
+}
+
+.icon-insights p:before {
+    content: "\e988" !important;
+    color: #555;
+}
+
+.icon-Interactions p:before {
+    content: "\e989" !important;
+    color: #555;
+}
+
+.icon-listings p:before {
+    content: "\e98a" !important;
+    color: #555;
+}
+
+.icon-referrals p:before {
+    content: "\e98c" !important;
+    color: #555;
+}
+
+.icon-reviews p:before {
+    content: "\e98d" !important;
+    color: #555;
+}
+
+.icon-surveys p:before {
+    content: "\e98e" !important;
+    color: #555;
+}
+
+.icon-ticketing p:before {
+    content: "\e98f" !important;
+}
+
+.icon-question-order p:before {
+    content: "\e9911" !important;
+    color: #999;
+}
+
+.icon-be-best .path1 p:before {
+    content: "\e991c" !important;
+    color: rgb(244, 240, 235);
+}
+
+.icon-be-best .path2 p:before {
+    content: "\e991d" !important;
+    margin-left: -0.826171875em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-be-best .path3 p:before {
+    content: "\e991e" !important;
+    margin-left: -0.826171875em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-be-best .path4 p:before {
+    content: "\e991f" !important;
+    margin-left: -0.826171875em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-enterprise-new p:before {
+    content: "\e990" !important;
+}
+
+.icon-tick-circle p:before {
+    content: "\e991" !important;
+    color: #2196f3;
+}
+
+.icon-cross-red p:before {
+    content: "\e992" !important;
+    color: #f44336;
+}
+
+.icon-circle-blue p:before {
+    content: "\e993" !important;
+    color: #2196f3;
+}
+
+.icon-email p:before {
+    content: "\e994" !important;
+}
+
+.icon-glassdoor p:before {
+    content: "\e9c7" !important;
+}
+
+.icon-info p:before {
+    content: "\e9d9" !important;
+}
+
+.icon-icon-star p:before {
+    content: "\e9ca" !important;
+}
+
+.icon-skip-next p:before {
+    content: "\e9c8" !important;
+}
+
+.icon-business p:before {
+    content: "\e9cb" !important;
+}
+
+.icon-enterprise .path1 p:before {
+    content: "\e9cc" !important;
+    color: rgb(0, 0, 0);
+}
+
+.icon-enterprise .path2 p:before {
+    content: "\e9cd" !important;
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-enterprise .path3 p:before {
+    content: "\e9ce" !important;
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-enterprise .path4 p:before {
+    content: "\e9cf" !important;
+    margin-left: -1em;
+    color: rgb(244, 240, 235);
+}
+
+.icon-enterprise .path5 p:before {
+    content: "\e9d0" !important;
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-comparePageCheck p:before {
+    content: "\e9d1" !important;
+}
+
+.icon-post_reply p:before {
+    content: "\e995" !important;
+}
+
+.icon-plus_close p:before {
+    content: "\e996" !important;
+}
+
+.icon-checkbox_unselected_16px p:before {
+    content: "\e997" !important;
+}
+
+.icon-checkbox-3 p:before {
+    content: "\e998" !important;
+}
+
+.icon-reset p:before {
+    content: "\e999" !important;
+}
+
+.icon-search p:before {
+    content: "\e99a" !important;
+}
+
+.icon-cheveron_close p:before {
+    content: "\e99b" !important;
+}
+
+.icon-cheveron_open p:before {
+    content: "\e99c" !important;
+}
+
+.icon-search_24px p:before {
+    content: "\e99d" !important;
+}
+
+.icon-checkmark-circled p:before {
+    content: "\e99e" !important;
+}
+
+.icon-arrow-pointing-left p:before {
+    content: "\e99f" !important;
+}
+
+.icon-location p:before {
+    content: "\e9a0" !important;
+}
+
+.icon-happy-emoticon p:before {
+    content: "\e9a1" !important;
+}
+
+.icon-fb p:before {
+    content: "\e9a2" !important;
+}
+
+.icon-instagram p:before {
+    content: "\e9a3" !important;
+}
+
+.icon-linkedin p:before {
+    content: "\e9a4" !important;
+}
+
+.icon-twitter p:before {
+    content: "\e9a5" !important;
+}
+
+.icon-play-overlay .path1 p:before {
+    content: "\e9a6" !important;
+    color: rgb(0, 0, 0);
+}
+
+.icon-play-overlay .path2 p:before {
+    content: "\e9a7" !important;
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+
+.icon-youtube p:before {
+    content: "\e9a8" !important;
+}
+
+.icon-up-arrow p:before {
+    content: "\e9a9" !important;
+}
+
+.icon-back-arrow p:before {
+    content: "\e9aa" !important;
+}
+
+.icon-heart p:before {
+    content: "\e9ab" !important;
+}
+
+.icon-call p:before {
+    content: "\e9ac" !important;
+}
+
+.icon-quote-left p:before {
+    content: "\e9ad" !important;
+}
+
+.icon-graph1 p:before {
+    content: "\e969" !important;
+}
+
+.icon-arrow1 p:before {
+    content: "\e968" !important;
+}
+
+.icon-calendar1 p:before {
+    content: "\e967" !important;
+}
+
+.icon-edit1 p:before {
+    content: "\e966" !important;
+}
+
+.icon-globe1 p:before {
+    content: "\e965" !important;
+}
+
+.icon-user1 p:before {
+    content: "\e964" !important;
+}
+
+.icon-bulletted-list1 p:before {
+    content: "\e960" !important;
+}
+
+.icon-chat1 p:before {
+    content: "\e958" !important;
+}
+
+.icon-credit-card1 p:before {
+    content: "\e956" !important;
+}
+
+.icon-double-chevron1 p:before {
+    content: "\e954" !important;
+}
+
+.icon-lightning1 p:before {
+    content: "\e953" !important;
+    color: #616161;
+}
+
+.icon-lock1 p:before {
+    content: "\e952" !important;
+}
+
+.icon-multi-frames1 p:before {
+    content: "\e951" !important;
+}
+
+.icon-reader1 p:before {
+    content: "\e950" !important;
+    color: #616161;
+}
+
+.icon-pages1 p:before {
+    content: "\e949" !important;
+}
+
+.icon-thumbs-up1 p:before {
+    content: "\e948" !important;
+}
+
+.icon-payments-light1 p:before {
+    content: "\e947" !important;
+}
+
+.icon-message1 p:before {
+    content: "\e946" !important;
+}
+
+.icon-link1 p:before {
+    content: "\e945" !important;
+}
+
+.icon-caution1 p:before {
+    content: "\e944" !important;
+}
+
+.icon-accounts1 p:before {
+    content: "\e943" !important;
+}
+
+.icon-circle-star1 p:before {
+    content: "\e942" !important;
+}
+
+.icon-podcast1 p:before {
+    content: "\e941" !important;
+    color: #555;
+}
+
+.icon-video1 p:before {
+    content: "\e939" !important;
+}
+
+.icon-webinar1 p:before {
+    content: "\e938" !important;
+}
+
+.icon-guide1 p:before {
+    content: "\e937" !important;
+}
+
+.icon-headphone1 p:before {
+    content: "\e936" !important;
+}
+
+.icon-share1 p:before {
+    content: "\e935" !important;
+}
+
+.icon-paint-brush1 p:before {
+    content: "\e934" !important;
+}
+
+.icon-iphone1 p:before {
+    content: "\e933" !important;
+}
+
+.icon-drag1 p:before {
+    content: "\e931" !important;
+}
+
+.icon-case-study1 p:before {
+    content: "\e930" !important;
+}
+
+.icon-campaigns1 p:before {
+    content: "\e929" !important;
+}
+
+.icon-payments1 p:before {
+    content: "\e928" !important;
+}
+
+.icon-call-outline1 p:before {
+    content: "\e91b" !important;
+    color: #555;
+}
+
+.icon-email-cross1 p:before {
+    content: "\e926" !important;
+    color: #555;
+}
+
+.icon-enterprise-v21 p:before {
+    content: "\e925" !important;
+}
+
+.icon-smb1 p:before {
+    content: "\e927" !important;
+}
+
+.icon-small-business1 .path1 p:before {
+    content: "\e922" !important;
+    color: rgb(244, 240, 235);
+}
+
+.icon-small-business1 .path2 p:before {
+    content: "\e923" !important;
+    margin-left: -1.0458984375em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-small-business1 .path3 p:before {
+    content: "\e924" !important;
+    margin-left: -1.0458984375em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-insights-light1 p:before {
+    content: "\e921" !important;
+    color: #555;
+}
+
+.icon-solutions-smb1 p:before {
+    content: "\e911" !important;
+    color: #555;
+}
+
+.icon-solutions-ent1 p:before {
+    content: "\e912" !important;
+    color: #555;
+}
+
+.icon-products-webchat1 p:before {
+    content: "\e915" !important;
+    color: #555;
+}
+
+.icon-products-video-chat1 p:before {
+    content: "\e916" !important;
+    color: #555;
+}
+
+.icon-products-receptionist1 p:before {
+    content: "\e917" !important;
+    color: #555;
+}
+
+.icon-products-pages1 p:before {
+    content: "\e919" !important;
+    color: #555;
+}
+
+.icon-products-mass-texting1 p:before {
+    content: "\e91a" !important;
+    color: #555;
+}
+
+.icon-competitors1 p:before {
+    content: "\e903" !important;
+    color: #555;
+}
+
+.icon-insights1 p:before {
+    content: "\e904" !important;
+    color: #555;
+}
+
+.icon-Interactions1 p:before {
+    content: "\e905" !important;
+    color: #555;
+}
+
+.icon-listings1 p:before {
+    content: "\e906" !important;
+    color: #555;
+}
+
+.icon-referrals1 p:before {
+    content: "\e90b" !important;
+    color: #555;
+}
+
+.icon-reviews1 p:before {
+    content: "\e90c" !important;
+    color: #555;
+}
+
+.icon-surveys1 p:before {
+    content: "\e90d" !important;
+    color: #555;
+}
+
+.icon-ticketing1 p:before {
+    content: "\e910" !important;
+}
+
+.icon-question-order1 p:before {
+    content: "\e9910" !important;
+    color: #999;
+}
+
+.icon-be-best1 .path1 p:before {
+    content: "\e9918" !important;
+    color: rgb(244, 240, 235);
+}
+
+.icon-be-best1 .path2 p:before {
+    content: "\e9919" !important;
+    margin-left: -0.826171875em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-be-best1 .path3 p:before {
+    content: "\e991a" !important;
+    margin-left: -0.826171875em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-be-best1 .path4 p:before {
+    content: "\e991b" !important;
+    margin-left: -0.826171875em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-enterprise-new1 p:before {
+    content: "\e918" !important;
+}
+
+.icon-tick-circle1 p:before {
+    content: "\e900" !important;
+    color: #2196f3;
+}
+
+.icon-cross-red1 p:before {
+    content: "\e901" !important;
+    color: #f44336;
+}
+
+.icon-circle-blue1 p:before {
+    content: "\e902" !important;
+    color: #2196f3;
+}
+
+.icon-email1 p:before {
+    content: "\e94a" !important;
+}
+
+.icon-glassdoor1 p:before {
+    content: "\e9c1" !important;
+}
+
+.icon-info1 p:before {
+    content: "\e9d8" !important;
+}
+
+.icon-icon-star1 p:before {
+    content: "\e9c9" !important;
+}
+
+.icon-skip-next1 p:before {
+    content: "\e9c2" !important;
+}
+
+.icon-business1 p:before {
+    content: "\e9bf" !important;
+}
+
+.icon-enterprise1 .path1 p:before {
+    content: "\e9c0" !important;
+    color: rgb(0, 0, 0);
+}
+
+.icon-enterprise1 .path2 p:before {
+    content: "\e9c3" !important;
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-enterprise1 .path3 p:before {
+    content: "\e9c4" !important;
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-enterprise1 .path4 p:before {
+    content: "\e9c5" !important;
+    margin-left: -1em;
+    color: rgb(244, 240, 235);
+}
+
+.icon-enterprise1 .path5 p:before {
+    content: "\e9c6" !important;
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+
+.icon-comparePageCheck1 p:before {
+    content: "\e9be" !important;
+}
+
+.icon-post_reply1 p:before {
+    content: "\e907" !important;
+}
+
+.icon-plus_close1 p:before {
+    content: "\e908" !important;
+}
+
+.icon-checkbox_unselected_16px1 p:before {
+    content: "\e909" !important;
+}
+
+.icon-checkbox-31 p:before {
+    content: "\e90a" !important;
+}
+
+.icon-reset1 p:before {
+    content: "\e90e" !important;
+}
+
+.icon-search1 p:before {
+    content: "\e90f" !important;
+}
+
+.icon-cheveron_close1 p:before {
+    content: "\e913" !important;
+}
+
+.icon-cheveron_open1 p:before {
+    content: "\e914" !important;
+}
+
+.icon-search_24px1 p:before {
+    content: "\e92d" !important;
+}
+
+.icon-checkmark-circled1 p:before {
+    content: "\e932" !important;
+}
+
+.icon-arrow-pointing-left1 p:before {
+    content: "\e940" !important;
+}
+
+.icon-location1 p:before {
+    content: "\e94d" !important;
+}
+
+.icon-happy-emoticon1 p:before {
+    content: "\e94f" !important;
+}
+
+.icon-fb1 p:before {
+    content: "\e955" !important;
+}
+
+.icon-instagram1 p:before {
+    content: "\e95c" !important;
+}
+
+.icon-linkedin1 p:before {
+    content: "\e95e" !important;
+}
+
+.icon-twitter1 p:before {
+    content: "\e961" !important;
+}
+
+.icon-play-overlay1 .path1 p:before {
+    content: "\e962" !important;
+    color: rgb(0, 0, 0);
+}
+
+.icon-play-overlay1 .path2 p:before {
+    content: "\e963" !important;
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+
+.icon-youtube1 p:before {
+    content: "\e96f" !important;
+}
+
+.icon-up-arrow1 p:before {
+    content: "\e957" !important;
+}
+
+.icon-back-arrow1 p:before {
+    content: "\e959" !important;
+}
+
+.icon-heart1 p:before {
+    content: "\e97d" !important;
+}
+
+.icon-call1 p:before {
+    content: "\e987" !important;
+}
+
+.icon-quote-left1 p:before {
+    content: "\e98b" !important;
+}
